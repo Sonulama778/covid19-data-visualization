@@ -55,7 +55,7 @@ You can view the Power BI dashboard as a PDF here:
 - Milestone 2 - Exploratory Data Analysis (EDA).pdf
 - Milestone 2 - Documentation.pdf
 - Power BI.pdf
-- Power BI-2.pdf
+
 
 ## How to Use
 
