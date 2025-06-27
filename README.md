@@ -51,9 +51,8 @@ You can view the Power BI dashboard as a PDF here:
 
 ## Files Included
 
-- Milestone 1 - COVID-19 Data Collection and Cleaning.pdf
-- Milestone 2 - Exploratory Data Analysis (EDA).pdf
-- Milestone 2 - Documentation.pdf
+- Milestone 1 - COVID-19 Data Collection and Cleaning.ipynb
+- Milestone 2 - Exploratory Data Analysis (EDA).ipynb
 - Power BI.pdf
 
 
