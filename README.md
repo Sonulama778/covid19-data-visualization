@@ -1,6 +1,10 @@
 # COVID-19 Data Analysis and Visualization
 
-This project analyzes COVID-19 trends using Python for data cleaning/EDA and Power BI for interactive dashboards. The goal of this project is to explore global COVID-19 trends and deliver actionable insights through data analysis and interactive visualizations.
+This project analyzes COVID-19 trends using Python for data cleaning/EDA and Power BI for interactive dashboards. 
+
+
+## Project Overview
+The goal of this project is to explore global COVID-19 trends and deliver actionable insights through data analysis and interactive visualizations.
 
 ## Milestones
 
